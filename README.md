@@ -1,7 +1,3 @@
-- 🔭 I'm a fully technology guy 
-- 🎃 My main job is cloud/server management with passion 
-- 💻 I'm creating Web APIs and some applications with Dotnet Core
+dotnet core, c#, mysql, mongodb, couchbase, (windows/linux) server management, docker (+swarm), kubernetes
 
- 🌏 I live in Tallinn, Estonia 
- 
- 📫 Contact with me: ersinkoc[at]gmail.com
+📫 Contact with me: ersinkoc[at]gmail.com
