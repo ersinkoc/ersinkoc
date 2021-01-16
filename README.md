@@ -3,4 +3,4 @@ Summary of my life: Dotnet Core, C#, MySQL, Percona XtraDB Cluster, MongoDB, Cou
 📫 Contact with me: ersinkoc[at]gmail.com
 
 
-[![ersinkoc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ersinkoc)]
+![ersinkoc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ersinkoc)
