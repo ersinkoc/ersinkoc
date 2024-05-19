@@ -1,7 +1,7 @@
 ### <div align="center">I'm Ersin, a full-time entrepreneur 👨‍💻 coding since 1989 🚀</div>  
   
 
-- 🔭 I’m currently working on [OXO Chain](https://oxochain.com) project.  
+- 🔭 I’m currently working on private cloud project.  
   
 
 - 🌱 I’m continuously learning too many new things 🤐  
