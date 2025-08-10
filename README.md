@@ -3,12 +3,6 @@
   <!-- Animated Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,8,3&height=180&section=header&text=Ersin%20Koç&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20•%20AI%20Enthusiast%20•%20Serial%20Entrepreneur&descAlignY=55&descSize=18" width="100%" />
   
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🚀+Coding+Since+1989+|+Building+the+Future;🧠+AI+%26+Machine+Learning+Explorer;💎+NPM+Package+Creator+%26+Open+Source+Contributor;⚡+Blockchain+%26+Web3+Pioneer" alt="Typing SVG" />
-  </a>
-  
-  <!-- Profile Views & Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ersinkoc&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/ersinkoc?style=for-the-badge&color=blue&labelColor=1a1a1a&label=FOLLOWERS" alt="Followers" />
