@@ -84,7 +84,7 @@ Started coding in **1989**, entered the hosting/cloud world in **1999**. Through
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900" />
 </div>
 
-### 📦 NPM Packages Collection - 27 Published Packages
+### 📦 NPM Packages Collection - 31 Published Packages
 
 <div align="center">
   
@@ -117,6 +117,10 @@ Started coding in **1989**, entered the hosting/cloud world in **1999**. Through
 | **[claude-code-subagents](https://npmjs.com/package/claude-code-subagents)** | ![npm](https://img.shields.io/npm/v/claude-code-subagents?style=flat-square&color=yellow) | ![downloads](https://img.shields.io/npm/dt/claude-code-subagents?style=flat-square) | 🤖 AI subagents for Claude Code workflows |
 | **[@oxog/kairos](https://npmjs.com/package/@oxog/kairos)** | ![npm](https://img.shields.io/npm/v/@oxog/kairos?style=flat-square&color=red) | ![downloads](https://img.shields.io/npm/dt/@oxog/kairos?style=flat-square) | ⏰ Revolutionary date/time library (NEW!) |
 | **[@oxog/schema-validator](https://npmjs.com/package/@oxog/schema-validator)** | ![npm](https://img.shields.io/npm/v/@oxog/schema-validator?style=flat-square&color=red) | ![downloads](https://img.shields.io/npm/dt/@oxog/schema-validator?style=flat-square) | ✅ Type-safe schema validation (NEW!) |
+| **[@oxog/vld](https://npmjs.com/package/@oxog/vld)** | ![npm](https://img.shields.io/npm/v/@oxog/vld?style=flat-square&color=red) | ![downloads](https://img.shields.io/npm/dt/@oxog/vld?style=flat-square) | 🚀 Ultra-fast TypeScript-first schema validation (NEW!) |
+| **[@oxog/nmc](https://npmjs.com/package/@oxog/nmc)** | ![npm](https://img.shields.io/npm/v/@oxog/nmc?style=flat-square&color=red) | ![downloads](https://img.shields.io/npm/dt/@oxog/nmc?style=flat-square) | 🧹 Zero-dependency node_modules analyzer & cleaner (NEW!) |
+| **[@oxog/port-terminator](https://npmjs.com/package/@oxog/port-terminator)** | ![npm](https://img.shields.io/npm/v/@oxog/port-terminator?style=flat-square&color=red) | ![downloads](https://img.shields.io/npm/dt/@oxog/port-terminator?style=flat-square) | 🔌 Cross-platform utility to terminate processes on ports (NEW!) |
+| **[@oxog/shell-core](https://npmjs.com/package/@oxog/shell-core)** | ![npm](https://img.shields.io/npm/v/@oxog/shell-core?style=flat-square&color=red) | ![downloads](https://img.shields.io/npm/dt/@oxog/shell-core?style=flat-square) | 🐚 Zero-dependency Node.js shell commands library (NEW!) |
 
 </div>
 
