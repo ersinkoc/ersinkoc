@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tonl",
+    "name": "TONL",
+    "title": "Token-Optimized Notation Language",
+    "description": "A text-first, LLM-friendly serialization format. Up to 50% fewer tokens than JSON. Zero dependencies. Built for the AI era.",
+    "logo": "🔗",
+    "website": "https://tonl.dev",
+    "github": "https://github.com/tonl-dev/tonl",
+    "color": "from-blue-500/20 to-purple-600/20"
+  },
+  {
+    "id": "specpulse",
+    "name": "SpecPulse",
+    "title": "Build Software 10x Faster with AI",
+    "description": "SpecPulse transforms how you build software. Write specifications once, generate intelligent tasks, and let AI handle the implementation. From idea to production in minutes, not months.",
+    "logo": "⚡",
+    "website": "https://specpulse.xyz",
+    "github": "https://github.com/specpulse/specpulse",
+    "color": "from-emerald-500/20 to-blue-600/20"
+  },
+  {
+    "id": "vld",
+    "name": "VLD",
+    "title": " Ultra-fast TypeScript Validation",
+    "description": "VLD is a blazing-fast, type-safe validation library with zero dependencies, 27+ language support, and full Zod API compatibility.",
+    "logo": "🚀",
+    "website": "https://vld.oxog.dev/",
+    "github": "https://github.com/ersinkoc/vld",
+    "color": "from-purple-500/20 to-pink-600/20"
+  }
+]
