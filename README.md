@@ -199,18 +199,6 @@ Started coding in **1989**, entered the hosting/cloud world in **1999**. Through
   </table>
 </div>
 
-<!-- GitHub Stats with Animations -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ersinkoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersinkoc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersinkoc&theme=tokyonight&hide_border=true" />
-</div>
-
 <!-- Connect Section -->
 ## 🌐 Let's Connect
 
