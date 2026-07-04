@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am Ersin, an independent developer building production-ready open-source infrastructure from scratch — no forks, single binary, zero dependencies, stdlib-first. #NOFORKANYMORE
-
+I am Ersin, an independent developer building production-ready open-source infrastructure from scratch
 
 ## My Projects
 
