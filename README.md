@@ -16,6 +16,7 @@ I am Ersin, an independent developer building production-ready open-source infra
 - vld — TS validation library [https://github.com/ersinkoc/vld]
 
 **Others**
+- TONL - Token-Optimized Notation Language [https://github.com/tonl-dev/tonl]
 - FluidFlow — sketch to app [https://github.com/ersinkoc/FluidFlow]
 - DFMC — Don't Fuck My Code [https://github.com/DontFuckMyCode/dfmc]
 - CoralCSS — zero-dependency CSS framework [https://github.com/CoralCSS/CoralCSS]
