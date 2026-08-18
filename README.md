@@ -5,6 +5,7 @@ I am Ersin, an independent developer building production-ready open-source infra
 
 **Actively maintained**
 - WrongStack — AI coding agent [https://github.com/WrongStack/WrongStack]
+- NineDeploy — Self-Hosted PaaS [https://github.com/NineDeploy/NineDeploy]
 - AGEZT — agentic operating system [https://github.com/agezt/agezt]
 - OwnPilot — privacy-first AI assistant platform [https://github.com/ownpilot/OwnPilot]
 - DFMT — token/context preserver [https://github.com/ersinkoc/dfmt]
