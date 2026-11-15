@@ -15,6 +15,11 @@ I am Ersin, an independent developer building production-ready open-source infra
 - GuardianWAF — Web Application Firewall [https://github.com/GuardianWAF/GuardianWAF]
 - UWAS — unified web server (Apache+Nginx+Varnish+Caddy in one binary) [https://github.com/uwaserver/uwas]
 - vld — TS validation library [https://github.com/ersinkoc/vld]
+- PhoneBox — turn an old Android phone into a desk panel [https://github.com/ersinkoc/phonebox]
+- AI Video Factory — topic to finished multilingual YouTube video [https://github.com/ersinkoc/AI-Video-Factory]
+- RustWTM — Windows task manager & resource governor in Rust [https://github.com/RustWTM/RustWTM]
+- RustCalc — native Rust calculator [https://github.com/ersinkoc/rustcalc]
+- Agora (alpha) — one window for every AI coding agent on every machine [https://github.com/ersinkoc/Agora]
 
 **Others**
 - TONL - Token-Optimized Notation Language [https://github.com/tonl-dev/tonl]
